@@ -1,0 +1,1 @@
+# summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020
