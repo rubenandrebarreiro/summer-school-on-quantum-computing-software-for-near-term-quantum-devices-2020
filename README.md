@@ -81,7 +81,7 @@ git clone git@github.com:rubenandrebarreiro/summer-school-on-quantum-computing-s
 >  pip install qiskit
 >  ```
 >
->    **_NOTE:_** _Install the also the **Visualization Sub-Module** for the [**Qiskit**](https://www.qiskit.org/)**-Terra Module** for [**Qiskit**](https://www.qiskit.org/), through the [**pip**](https://pypi.org/project/pip/) **Library**_:
+>    **_NOTE:_** _Install also the **Visualization Sub-Module** for the [**Qiskit**](https://www.qiskit.org/)**-Terra Module** for [**Qiskit**](https://www.qiskit.org/), through the [**pip**](https://pypi.org/project/pip/) **Library**_:
 >    ```
 >    pip install qiskit-terra[visualization]
 >    ```
@@ -105,7 +105,59 @@ git clone git@github.com:rubenandrebarreiro/summer-school-on-quantum-computing-s
 >  ```
 >  pip install biopython
 >  ```
-  
+> 
+>    **_NOTE:_** _Update/Upgrade also the recently installed [**Biopython**](https://biopython.org/) **Library**, based on [**Python**](https://python.org/), through the [**pip**](https://pypi.org/project/pip/) **Library**_:
+>    ```
+>    pip install biopython --upgrade
+>    ```
+
+>  10. _Install the [**NGL View**](https://github.com/nglviewer/nglview) **Library** based on [**Python**](https://www.python.org/) for the current activated **Conda Environment**, through the [**Bioconda**](https://bioconda.github.io/)_:
+>  ```
+>  conda install nglview -c bioconda
+>  ```
+
+>  11. _Install the [**Psi4**](http://www.psicode.org/) **Library** based on [**Python**](https://www.python.org/) for the current activated **Conda Environment**_:
+>  ```
+>  conda install -c raimis -c psi4 -c conda-forge psi4=1.3.2
+>  ```
+
+>  12. _Install the [**DeepChem**](https://deepchem.io/) **Library** based on [**Python**](https://www.python.org/) for the current activated **Conda Environment**_:
+>  ```
+>  conda install -c conda-forge rdkit deepchem==2.3.0
+>  ```
+>
+>   **_NOTES:_** _After a while, should prompted in the [**Anaconda**](https://www.anaconda.com/) **Prompt**, and you should type '**y**' and type **ENTER**_:
+>   ```
+>   Proceed ([y]/n)? y
+>   ```
+
+>  13. _Install the [**TensorFlow**](https://www.tensorflow.org/), through the [**pip**](https://pypi.org/project/pip/) **Library**_:
+>  ```
+>  pip install tensorflow==1.14
+>  ```
+
+>  14. _Install the [**py3Dmol**](https://pypi.org/project/py3Dmol/), through the [**pip**](https://pypi.org/project/pip/) **Library**_:
+>  ```
+>  pip install py3Dmol
+>  ```
+
+>  15. _Install the [**IPy Widgets**](https://ipywidgets.readthedocs.io/en/latest/) **Library** based on [**Python**](https://www.python.org/) for the current activated **Conda Environment**_:
+>  ```
+>  conda install -c anaconda ipywidgets
+>  ```
+>
+>   **_NOTES:_** _After a while, should prompted in the [**Anaconda**](https://www.anaconda.com/) **Prompt**, and you should type '**y**' and type **ENTER**_:
+>   ```
+>   Proceed ([y]/n)? y
+>   ```
+
+>  16. _Open the [**Jupyter Notebook**](https://jupyter.org/), through the **Web Browser**_:
+>  ```
+>  jupyter-notebook
+>  ```
+
+> _Now, you can start programming in [**Python**](https://www.python.org/), through the [**Jupyter Notebook**](https://jupyter.org/)!!!_
+
 ***
 
 ## Built with
