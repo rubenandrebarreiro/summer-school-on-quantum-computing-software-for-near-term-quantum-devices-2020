@@ -141,7 +141,7 @@ git clone git@github.com:rubenandrebarreiro/summer-school-on-quantum-computing-s
 >  conda install qutip
 >  ```
 >
->   **_NOTES:_** _After a while, should prompted in the [**Anaconda**](https://www.anaconda.com/) **Prompt**, and you should type '**y**' and type **ENTER**_:
+>   **_NOTE:_** _After a while, should prompted in the [**Anaconda**](https://www.anaconda.com/) **Prompt**, and you should type '**y**' and type **ENTER**_:
 >   ```
 >   Proceed ([y]/n)? y
 >   ```
@@ -176,7 +176,7 @@ git clone git@github.com:rubenandrebarreiro/summer-school-on-quantum-computing-s
 >  conda install -c conda-forge rdkit deepchem==2.3.0
 >  ```
 >
->   **_NOTES:_** _After a while, should prompted in the [**Anaconda**](https://www.anaconda.com/) **Prompt**, and you should type '**y**' and type **ENTER**_:
+>   **_NOTE:_** _After a while, should prompted in the [**Anaconda**](https://www.anaconda.com/) **Prompt**, and you should type '**y**' and type **ENTER**_:
 >   ```
 >   Proceed ([y]/n)? y
 >   ```
@@ -196,7 +196,7 @@ git clone git@github.com:rubenandrebarreiro/summer-school-on-quantum-computing-s
 >  conda install -c anaconda ipywidgets
 >  ```
 >
->   **_NOTES:_** _After a while, should prompted in the [**Anaconda**](https://www.anaconda.com/) **Prompt**, and you should type '**y**' and type **ENTER**_:
+>   **_NOTE:_** _After a while, should prompted in the [**Anaconda**](https://www.anaconda.com/) **Prompt**, and you should type '**y**' and type **ENTER**_:
 >   ```
 >   Proceed ([y]/n)? y
 >   ```
