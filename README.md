@@ -7,6 +7,34 @@
 
 ***
 
+## Current Status
+[![contributor for this repository](https://img.shields.io/badge/contributor-rubenandrebarreiro-blue.svg)](https://github.com/rubenandrebarreiro/)
+[![current version](https://img.shields.io/badge/version-1.0-magenta.svg)](https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/)
+
+[![status of this version no. 1](https://img.shields.io/badge/status-completed-orange.svg)](https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/)
+[![status of this version no. 2](https://img.shields.io/badge/status-final-orange.svg)](https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/)
+[![status of this version no. 3](https://img.shields.io/badge/status-stable-orange.svg)](https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/)
+[![status of this version no. 4](https://img.shields.io/badge/status-documented-orange.svg)](https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/)
+
+[![keyword of this version no. 1](https://img.shields.io/badge/keyword-quantum&nbsp;information&nbsp;science-brown.svg)](https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/)
+[![keyword of this version no. 2](https://img.shields.io/badge/keyword-quantum&nbsp;theory-brown.svg)](https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/)
+[![keyword of this version no. 3](https://img.shields.io/badge/keyword-quantum&nbsp;chemistry-brown.svg)](https://github.com/rubenandrebarreiro/https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/)
+[![keyword of this version no. 4](https://img.shields.io/badge/keyword-quantum&nbsp;computing-brown.svg)](https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/)
+
+[![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-python-red.svg)](https://www.python.org)
+[![technology used no. 2](https://img.shields.io/badge/built&nbsp;with-qiskit-red.svg)](https://www.qiskit.org)
+[![software used no. 1](https://img.shields.io/badge/software-anaconda-gold.svg)](https://www.anaconda.com/)
+[![software used no. 2](https://img.shields.io/badge/software-jupyter&nbsp;notebook-gold.svg)](https://jupyter.org/)
+
+[![star this repository](http://githubbadges.com/star.svg?user=rubenandrebarreiro&repo=summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020&style=flat)](https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/stargazers)
+[![fork this repository](http://githubbadges.com/fork.svg?user=rubenandrebarreiro&repo=summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020&style=flat)](https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/fork)
+[![downloads of this repository](https://img.shields.io/github/downloads/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/total.svg)](https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/archive/master.zip)
+[![price of this project](https://img.shields.io/badge/price-free-success.svg)](https://img.shields.io/badge/status-documented-orange.svg)](https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/archive/master.zip)
+
+##### Current Progress of the Project
+
+[![current progress of this project](http://progressed.io/bar/100?title=&nbsp;completed&nbsp;)](https://github.com/rubenandrebarreiro/game-of-thrones-knowledge-base-representation-checker/)
+
 ## Description
 
 A project based in **_Quantum Information Science_**, **_Quantum Chemistry_** and **_Quantum Computing_**.
