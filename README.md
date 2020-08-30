@@ -1,6 +1,27 @@
 # Summer School on Quantum Computing:
-## Software for Near Term Quantum Devices - 2020
+## Software for Near Term Quantum Devices 2020
 ### (August 31, 2020 - September 4, 2020)
+
+![https://raw.githubusercontent.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/master/imgs/JPGs/banner-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/master/imgs/JPGs/banner-1.jpg)
+###### Summer School on Quantum Computing: Software for Near Term Quantum Devices 2020 - Banner #1
+
+***
+
+## Description
+
+A project based in **_Quantum Information Science_**, **_Quantum Chemistry_** and **_Quantum Computing_**.
+
+## Screenshots
+
+![https://raw.githubusercontent.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/master/imgs/JPGs/screenshot-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/master/imgs/JPGs/screenshot-1.jpg)
+###### Summer School on Quantum Computing: Software for Near Term Quantum Devices 2020 - Screenshot #1
+
+***
+
+![https://raw.githubusercontent.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/master/imgs/JPGs/screenshot-2.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/master/imgs/JPGs/screenshot-2.jpg)
+###### Summer School on Quantum Computing: Software for Near Term Quantum Devices 2020 - Screenshot #2
+
+***
 
 ## Getting Started
 
