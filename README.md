@@ -34,7 +34,7 @@ git clone https://github.com/rubenandrebarreiro/gsummer-school-on-quantum-comput
 git clone git@github.com:rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020.git
 ```
 
-> After this, you need to _create_ the necessary **_environment_** and _install_ the required/used **_Libraries_** for **_Mathematics_**, **_Data Science_**, **_Biology_**, **_Chemistry_**, **_Quantum Information Science_** and **_Quantum Computing_**, based in the [**_Python_**](https://www.python.org/) **_Programming Language_**.
+> After this, you need to _create_ the necessary **_Conda Environment_** and _install_ the required/used **_Libraries_** for **_Mathematics_**, **_Data Science_**, **_Biology_**, **_Chemistry_**, **_Quantum Information Science_** and **_Quantum Computing_**, based in the [**_Python_**](https://www.python.org/) **_Programming Language_**.
 
 > First of all, it's necessary to _download_ the [**_Anaconda_**](https://www.anaconda.com/) **_Data Science Platform_** and install it, from the following link:
 * [**_https://www.anaconda.com/_**](https://www.anaconda.com/)
