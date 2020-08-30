@@ -10,6 +10,7 @@
 ## Current Status
 [![contributor for this repository](https://img.shields.io/badge/contributor-rubenandrebarreiro-blue.svg)](https://github.com/rubenandrebarreiro/)
 [![developed in](https://img.shields.io/badge/developed&nbsp;in-uimp-blue.svg)](http://www.uimp.es/)
+[![with support of](https://img.shields.io/badge/with&nbsp;support&nbsp;of-ibm-blue.svg)](https://www.ibm.com/)
 [![current version](https://img.shields.io/badge/version-1.0-magenta.svg)](https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/)
 
 [![status of this version no. 1](https://img.shields.io/badge/status-completed-orange.svg)](https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/)
