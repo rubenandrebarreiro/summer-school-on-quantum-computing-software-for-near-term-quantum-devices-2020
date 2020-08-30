@@ -2,6 +2,106 @@
 ## Software for Near Term Quantum Devices - 2020
 ### (August 31, 2020 - September 4, 2020)
 
+## Getting Started
+
+### Prerequisites
+To install and run this application, you will need:
+> The [**_Git_**](https://git-scm.com/) feature and/or a [**_third-party Git Client based GUI_**](https://git-scm.com/downloads/guis/), like:
+* [**_GitHub Desktop_**](https://desktop.github.com/), [**_GitKraken_**](https://www.gitkraken.com/), [**_SourceTree_**](https://www.sourcetreeapp.com/) or [**_TortoiseGit_**](https://tortoisegit.org/).
+
+### Installation
+To install this application, you will only need to _download_ or _clone_ this repository and run the application locally:
+
+> You can do it downloading the [**_.zip file_**](https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/archive/master.zip) in download section of this repository.
+
+> Or instead, by cloning this repository by a [**_Git Client based GUI_**](https://git-scm.com/downloads/guis), using [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS) or [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol), by one of the following link:
+* [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS):
+```
+https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020.git
+```
+* [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol):
+```
+git@github.com:rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020.git
+```
+
+> Or even, by running one of the following commands in a **_Git Bash Console_**:
+* [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS):
+```
+git clone https://github.com/rubenandrebarreiro/gsummer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020.git
+```
+* [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol):
+```
+git clone git@github.com:rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020.git
+```
+
+> After this, you need to _create_ the necessary **_environment_** and _install_ the required/used **_Libraries_** for **_Mathematics_**, **_Data Science_**, **_Biology_**, **_Chemistry_**, **_Quantum Information Science_** and **_Quantum Computing_**, based in the [**_Python_**](https://www.python.org/) **_Programming Language_**.
+
+> First of all, it's necessary to _download_ the [**_Anaconda_**](https://www.anaconda.com/) **_Data Science Platform_** and install it, from the following link:
+* [**_https://www.anaconda.com/_**](https://www.anaconda.com/)
+
+> After install the [**_Anaconda_**](https://www.anaconda.com/) **_Data Science Platform_**, open the [**_Anaconda_**](https://www.anaconda.com/) **_Prompt_** and type the following commands, in order to, _create_ the necessary **_environment_** and _install_ the required/used [**_Python_**](https://www.python.org/) **_Libraries_**:
+
+1. _Create the **Conda Environment** with the name "**quantum-computing-summer-school-2020**" (or, other name you prefer)_:
+```
+conda create --name quantum-computing-summer-school-2020
+```
+  1.1. _After a while, should prompted in the [**Anaconda**](https://www.anaconda.com/) **Prompt**, and you should type '**y**' and type **ENTER**_:
+  ```
+  Proceed ([y]/n)? y
+  ```
+2. _Activate the previously created **Conda Environment**_:
+```
+conda activate quantum-computing-summer-school-2020
+```
+
+3. _Install some basic **Libraries** and **Software** based on [**Python**](https://www.python.org/)_:
+```
+conda install numpy scipy cython matplotlib nose jupyter notebook spyder
+```
+  3.1. _After a while, should prompted in the [**Anaconda**](https://www.anaconda.com/) **Prompt**, and you should type '**y**' and type **ENTER**_:
+  ```
+  Proceed ([y]/n)? y
+  ```
+  
+4. _Install and upgrade the [**pip**](https://pypi.org/project/pip/) **Library** based on [**Python**](https://www.python.org/)_:
+```
+python -m pip install --upgrade pip --user
+```
+ 
+5. _Add the [**Conda-Forge**](https://conda-forge.org/) **Channel** to the current activated **Conda Environment**_:
+```
+conda config --append channels conda-forge
+```
+  
+6. _Install the [**Qiskit**](https://www.qiskit.org/), through the [**pip**](https://pypi.org/project/pip/) **Library**_:
+```
+pip install qiskit
+```
+  6.1. _Install the also the **Visualization Sub-Module** for the [**Qiskit**](https://www.qiskit.org/)**-Terra Module** for [**Qiskit**](https://www.qiskit.org/), through the [**pip**](https://pypi.org/project/pip/) **Library**_:
+  ```
+  pip install qiskit-terra[visualization]
+  ```
+ 
+7. _Install the [**QuTiP**](http://qutip.org/) **Library** based on [**Python**](https://www.python.org/) for the current activated **Conda Environment**_:
+```
+conda install qutip
+```
+  7.1. _After a while, should prompted in the [**Anaconda**](https://www.anaconda.com/) **Prompt**, and you should type '**y**' and type **ENTER**_:
+  ```
+  Proceed ([y]/n)? y
+  ```
+
+8. _Install the [**PyTest**](https://docs.pytest.org/en/stable/), through the [**pip**](https://pypi.org/project/pip/) **Library**_:
+```
+pip install pytest
+```
+
+9. _Install the [**Biopython**](https://biopython.org/), through the [**pip**](https://pypi.org/project/pip/) **Library**_:
+```
+pip install biopython
+```
+  
+***
 
 ## Built with
 * [**_IBM Quantum Experience (IBM Q Experience)_**](https://quantum-computing.ibm.com/)
@@ -9,6 +109,7 @@
 * [**_Conda_**](https://docs.conda.io/en/latest/)
 * [**_Bioconda_**](https://bioconda.github.io/)
 * [**_Python_**](https://www.python.org/)
+* [**_pip_**](https://pypi.org/project/pip/)
 * [**_Qiskit_**](https://qiskit.org/)
 * [**_QuTiP_**](http://qutip.org/)
 * [**_Jupyter Notebook_**](https://jupyter.org/)
