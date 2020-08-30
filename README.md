@@ -29,7 +29,7 @@
 [![star this repository](http://githubbadges.com/star.svg?user=rubenandrebarreiro&repo=summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020&style=flat)](https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/stargazers)
 [![fork this repository](http://githubbadges.com/fork.svg?user=rubenandrebarreiro&repo=summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020&style=flat)](https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/fork)
 [![downloads of this repository](https://img.shields.io/github/downloads/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/total.svg)](https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/archive/master.zip)
-[![price of this project](https://img.shields.io/badge/price-free-success.svg)](https://img.shields.io/badge/status-documented-orange.svg)](https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/archive/master.zip)
+[![price of this project](https://img.shields.io/badge/price-free-success.svg)](https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/archive/master.zip)
 
 ##### Current Progress of the Project
 
