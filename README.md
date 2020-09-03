@@ -242,6 +242,18 @@ git clone git@github.com:rubenandrebarreiro/summer-school-on-quantum-computing-s
 
 ## Contacts
 
+### Gustavo del Val Garcia
+#### E-mails
+* [100001149@alumnos.uimp.es](mailto:100001149@alumnos.uimp.es)
+
+### Lucía Vílchez Estévez
+#### E-mails
+* [100001134@alumnos.uimp.es](mailto:100001134@alumnos.uimp.es)
+
+### María Hita Pérez
+#### E-mails
+* [100001113@alumnos.uimp.es](mailto:100001113@alumnos.uimp.es)
+
 ### Rúben André Barreiro
 #### E-mails
 * [r.barreiro@campus.fct.unl.pt](mailto:r.barreiro@campus.fct.unl.pt)
