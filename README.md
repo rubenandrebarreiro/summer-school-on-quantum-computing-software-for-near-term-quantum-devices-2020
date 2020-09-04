@@ -250,7 +250,7 @@ git clone git@github.com:rubenandrebarreiro/summer-school-on-quantum-computing-s
 #### E-mails
 * [100001134@alumnos.uimp.es](mailto:100001134@alumnos.uimp.es)
 
-### María Hita Pérez ([**Universidad Complutense de Madrid**](https://www.ucm.es/)
+### María Hita Pérez ([**Universidad Complutense de Madrid**](https://www.ucm.es/))
 #### E-mails
 * [100001113@alumnos.uimp.es](mailto:100001113@alumnos.uimp.es)
 
