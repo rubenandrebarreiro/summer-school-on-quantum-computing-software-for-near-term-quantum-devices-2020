@@ -242,19 +242,19 @@ git clone git@github.com:rubenandrebarreiro/summer-school-on-quantum-computing-s
 
 ## Contacts
 
-### Gustavo del Val Garcia
+### Gustavo del Val Garcia ([Universidad Nacional de Educación a Distancia](https://www.uned.es/universidad/inicio.html))
 #### E-mails
 * [100001149@alumnos.uimp.es](mailto:100001149@alumnos.uimp.es)
 
-### Lucía Vílchez Estévez
+### Lucía Vílchez Estévez ([**University of Oxford**](https://www.ox.ac.uk/))
 #### E-mails
 * [100001134@alumnos.uimp.es](mailto:100001134@alumnos.uimp.es)
 
-### María Hita Pérez
+### María Hita Pérez ([**Universidad Complutense de Madrid**](https://www.ucm.es/)
 #### E-mails
 * [100001113@alumnos.uimp.es](mailto:100001113@alumnos.uimp.es)
 
-### Rúben André Barreiro
+### Rúben André Barreiro ([**Universidade NOVA de Lisboa**](https://www.unl.pt/))
 #### E-mails
 * [r.barreiro@campus.fct.unl.pt](mailto:r.barreiro@campus.fct.unl.pt)
 * [100001135@alumnos.uimp.es](mailto:100001135@alumnos.uimp.es)
@@ -262,7 +262,7 @@ git clone git@github.com:rubenandrebarreiro/summer-school-on-quantum-computing-s
 
 ## Portfolios/Blogs and Git Hosting/Repository Services
 
-### Rúben André Barreiro
+### Rúben André Barreiro ([**Universidade NOVA de Lisboa**](https://www.unl.pt/))
 #### GitHub's Portfolio/Personal Blog
 * [https://rubenandrebarreiro.github.io/](https://rubenandrebarreiro.github.io/)
 
