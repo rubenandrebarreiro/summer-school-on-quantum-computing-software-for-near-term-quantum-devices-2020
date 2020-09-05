@@ -10,10 +10,13 @@
 ## Quantum Computing Project - Grover's Questions
 
 ### Lucía Vílchez Estévez ([**University of Oxford**](https://www.ox.ac.uk/))
+#### Lucía's Version:
 * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/master?filepath=project%2Fgrover-algorithm-questions-lucia.ipynb)
 
 ### María Hita Pérez ([**Universidad Complutense de Madrid**](https://www.ucm.es/))
+#### María's Version:
 * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/master?filepath=project%2Fgrover-algorithm-questions-maria.ipynb)
 
 ### Rúben André Barreiro ([**Universidade NOVA de Lisboa**](https://www.unl.pt/))
+#### Rúben's Version:
 * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020/master?filepath=project%2Fgrover-algorithm-questions-ruben.ipynb)
